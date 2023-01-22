@@ -13,7 +13,6 @@ js_config:
   Env: jd_cjhy_activityId
   KeyWord:
   - - jd_cjhy_activityId
-  - - jd_cjhy_activityUrl
   Name: 【自己】CJ瓜分京豆
   Script: jd_cjzdgf.js
   TimeOut: 0
@@ -23,7 +22,6 @@ js_config:
   Env: jd_cjhy_activityUrl
   KeyWord:
   - - jd_cjhy_activityUrl
-  - - jd_cjhy_activityId
   Name: 【自己】CJ瓜分京豆
   Script: jd_cjzdgf.js
   TimeOut: 0
